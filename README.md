@@ -1,4 +1,4 @@
-# Multi-Nodal-Analysis---Circuit-Solver
+# Modified-Nodal-Analysis-Circuit-Solver
 
 The code takes in a netlist in the form of a txt file and uses KCL aka the Junction law to solve the given circuit
 
